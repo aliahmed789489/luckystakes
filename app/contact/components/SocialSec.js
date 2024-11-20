@@ -19,18 +19,18 @@ const SocialSec = () => {
         <div className='grid max-sm:grid-cols-1 grid-cols-4 mt-10 mb-10 sm:mt-36 sm:mb-24 gap-10 sm:gap-40'>
             <div>
             <h3 className='font-extrabold text-base uppercase mb-4  '>THE ADDRESS</h3>
-                <p>ex Inc. Touchdown Dr 1176</p>
+                <p>Plot No. 27/11, Saba Avenue, Street 31, Phase- V, DHA, Karachi</p>
             </div>
             <div >
             <h3 className='font-extrabold text-base uppercase mb-4  '>THE INQUIRY</h3>
-                <Link href="mailto:inquiry@ignytessolution.com">inquiry@ignytessolution.com</Link>
+                <Link href="mailto:inquiry@luckystakes.com">luckystakesofficial@gmail.com</Link>
             </div>
             <div className='sm:col-span-2'>
             <h3 className='font-extrabold text-base uppercase mb-4 '>Social sites</h3>
                 <div className='grid grid-cols-2 sm:grid-cols-4  font-medium gap-10'>
                     <div className='flex flex-row items-center'>
                         <Image src={twitterIcon} alt='twitter icon' height={16}/>
-                        <Link href="https://twitter.com/Ignytessolution" target='_blank' className='hover:text-red ml-2'>Twitter</Link>
+                        <Link href="https://twitter.com/luckystakes" target='_blank' className='hover:text-red ml-2'>Twitter</Link>
                     </div>
                     <div className='flex flex-row items-center'>
                         <Image src={facebookIcon} alt='Facebook icon' height={16}/>

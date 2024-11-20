@@ -23,7 +23,7 @@ const Contactform = () => {
         </div>
         <div className="text-[#DEE1E6] text-sm">
             <Link href="/"><p><span className="inline-flex pr-2"><Image src={mapIcon} alt="map icon" className="filter-apply"/></span>18601 FM 1431 Ste 104 #2053 Jonestown, TX 78645</p></Link>
-            <Link href="mailto:inquiry@ignytessolutions.com"><span className="inline-flex pr-2"><Image src={mailIcon} alt="mail icon" className="filter-apply"/></span>inquiry@ignytessolutions.com</Link>
+            <Link href="mailto:inquiry@luckystakes.com"><span className="inline-flex pr-2"><Image src={mailIcon} alt="mail icon" className="filter-apply"/></span>inquiry@luckystakess.com</Link>
         </div>
     </div>
     <Form/>

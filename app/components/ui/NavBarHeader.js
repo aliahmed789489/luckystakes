@@ -19,7 +19,7 @@ const NavBarHeader = () => {
       <div className="w-[80%] flex flex-row justify-between	 text-[#fff]">
         <div className="logo-container w-[30%]">
           <Link href="/">
-            <Image src={Logo} height={60}/>
+            <Image src={Logo} width={80}/>
           </Link>
         </div>
         <div className={`w-[70%] menu-container ${menuOpen ? 'open' : ''}`}>
