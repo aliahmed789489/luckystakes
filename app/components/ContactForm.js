@@ -22,7 +22,7 @@ const Contactform = () => {
             <h2 className="text-2xl sm:text-4xl pb-2">Got a query? Contact Us</h2>
         </div>
         <div className="text-[#DEE1E6] text-sm">
-            <Link href="/"><p><span className="inline-flex pr-2"><Image src={mapIcon} alt="map icon" className="filter-apply"/></span>18601 FM 1431 Ste 104 #2053 Jonestown, TX 78645</p></Link>
+            <Link href="/"><p><span className="inline-flex pr-2"><Image src={mapIcon} alt="map icon" className="filter-apply"/></span>Plot No. 27/11, Saba Avenue, Street 31, Phase- V, DHA, Karachi.</p></Link>
             <Link href="mailto:inquiry@luckystakes.com"><span className="inline-flex pr-2"><Image src={mailIcon} alt="mail icon" className="filter-apply"/></span>inquiry@luckystakess.com</Link>
         </div>
     </div>

@@ -21,7 +21,7 @@ const BrandingPricing = () => {
     
             <PricingTestimonial
                 package={"Pro"}
-                price={"$99"}
+                price={"9900 rs"}
                 color={"#D9D9D9"}
                 item1={"2 Stationery Design Set"}
                item2={"FREE Fax Template"}
@@ -32,7 +32,7 @@ const BrandingPricing = () => {
             />
             <PricingTestimonial
                 package={"PREMIUM"}
-                price={"$199"}
+                price={"19900"}
                color={"#D9D9D9"}
                item1={"2 Stationery Design Set"}
                item2={"UNLIMITED Revisions"}
@@ -43,7 +43,7 @@ const BrandingPricing = () => {
            />
            <PricingTestimonial
                 package={"ENTERPRISE"}
-                price={"$399"}
+                price={"39900"}
                color={"#D9D9D9"}
                item1={"2 Stationery Design Set"}
                item2={"Packaging Design"}

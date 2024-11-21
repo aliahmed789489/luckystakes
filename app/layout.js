@@ -10,7 +10,7 @@ const mont = Open_Sans({ subsets: ['latin'] })
 // const inter = Inter({ subsets: ['latin'] })
 
 export const metadata = {
-  title: 'Ignytes Solution',
+  title: 'Lucky Stakes',
   description: 'The software   solution company ',
 }
 

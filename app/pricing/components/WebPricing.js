@@ -19,7 +19,7 @@ const WebPricing = () => {
     <div className="flex flex-row max-md:flex-col max-sm:flex-col max-md:gap-8 gap-8 justify-center mt-6 relative mb-20">
             <PricingTestimonial
                 package={"PRO"}
-                price={"$244"}
+                price={"25000 rs"}
                 color={"#D9D9D9"}
                slogan={"Basic Website"}
 
@@ -41,7 +41,7 @@ const WebPricing = () => {
             />
             <PricingTestimonial
                 package={"PREMIUM"}
-                price={"$394"}
+                price={"75000 rs"}
                color={"#D9D9D9"}
                slogan={"Wordpress"}
 
@@ -61,7 +61,7 @@ const WebPricing = () => {
            />
            <PricingTestimonial
                 package={"ENTERPRISE"}
-                price={"$819"}
+                price={"500000 rs"}
                color={"#D9D9D9"}
                slogan={"Up to 5 Pages Website Design"}
 

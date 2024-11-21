@@ -30,19 +30,19 @@ const SocialSec = () => {
                 <div className='grid grid-cols-2 sm:grid-cols-4  font-medium gap-10'>
                     <div className='flex flex-row items-center'>
                         <Image src={twitterIcon} alt='twitter icon' height={16}/>
-                        <Link href="https://twitter.com/luckystakes" target='_blank' className='hover:text-red ml-2'>Twitter</Link>
+                        <Link href="#" target='_blank' className='hover:text-red ml-2'>Twitter</Link>
                     </div>
                     <div className='flex flex-row items-center'>
                         <Image src={facebookIcon} alt='Facebook icon' height={16}/>
-                        <Link href="https://www.facebook.com/profile.php?id=61551594675574" target='_blank' className='hover:text-red ml-2'>Facebook</Link>
+                        <Link href="#" target='_blank' className='hover:text-red ml-2'>Facebook</Link>
                     </div>
                     <div className='flex flex-row items-center'>
                         <Image src={linkedinIcon} alt='Linkedin icon' height={16}/>
-                        <Link href="https://www.linkedin.com/company/ignytes-solutions/" target='_blank' className='hover:text-red ml-2'>Linkedin</Link>
+                        <Link href="#" target='_blank' className='hover:text-red ml-2'>Linkedin</Link>
                     </div>
                     <div className='flex flex-row items-center'>
                         <Image src={instagramIcon} alt='Instagram icon' height={16}/>
-                        <Link href="https://www.instagram.com/ignytes_solutions/" target='_blank' className='hover:text-red ml-2'>Instagram</Link>
+                        <Link href="#" target='_blank' className='hover:text-red ml-2'>Instagram</Link>
                     </div>
                     
                    
