@@ -20,7 +20,7 @@ const SEOPricing = () => {
     <div className="flex flex-row max-sm:flex-col gap-8 justify-center mt-6 relative mb-20">
             <PricingTestimonial
                 package={"Pro"}
-                price={"$3500"}
+                price={"35000 rs"}
                 color={"#D9D9D9"}
 
                 item1={"Prior Analysis "}
@@ -57,7 +57,7 @@ const SEOPricing = () => {
             />
             <PricingTestimonial
                 package={"PREMIUM"}
-                price={"$5000"}
+                price={"50000 rs"}
                color={"#D9D9D9"}
 
                item1={"Prior Analysis "}
@@ -91,7 +91,7 @@ const SEOPricing = () => {
            />
            <PricingTestimonial
                 package={"ENTERPRISE"}
-                price={"$7500"}
+                price={"75000 rs"}
                color={"#D9D9D9"}
 
                item1={"Prior Analysis "}

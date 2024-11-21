@@ -20,7 +20,7 @@ const LogoPricing = () => {
     <div className="flex flex-row max-sm:flex-col gap-8 justify-center mt-6 relative mb-20">
             <PricingTestimonial
                 package={"Pro"}
-                price={"$150"}
+                price={"1500 Rs"}
                 slogan={"Logo premium"}
                 color={"#D9D9D9"}
                 item1={"12 original logo concepts"}
@@ -41,7 +41,7 @@ const LogoPricing = () => {
             />
             <PricingTestimonial
                 package={"PREMIUM"}
-                price={"$350"}
+                price={"35000 rs"}
                 slogan={"Logo Ultimate"}
                color={"#D9D9D9"}
                item1={"Unlimited Original Logo Concepts"}
@@ -61,7 +61,7 @@ const LogoPricing = () => {
            />
            <PricingTestimonial
                 package={"ENTERPRISE"}
-                price={"$600"}
+                price={"60000 rs"}
                 slogan={"Logo boss"}
                color={"#D9D9D9"}
                item1={"Unlimited Original Logo Concepts"}

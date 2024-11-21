@@ -16,10 +16,11 @@ const NavBarHeader = () => {
 
   return (
     <nav className="h-full flex flex-row justify-center ">
-      <div className="w-[80%] flex flex-row justify-between	 text-[#fff]">
+      <div className="w-[80%] h-[80px]  flex flex-row justify-between items-center	 text-[#fff]">
+
         <div className="logo-container w-[30%]">
           <Link href="/">
-            <Image src={Logo} width={80}/>
+            <Image src={Logo} className=' pt-16 w-96 '/>
           </Link>
         </div>
         <div className={`w-[70%] menu-container ${menuOpen ? 'open' : ''}`}>

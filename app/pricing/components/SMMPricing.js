@@ -20,7 +20,7 @@ const SMMPricing = () => {
     <div className="flex flex-row max-sm:flex-col gap-8 justify-center mt-6 relative mb-20">
             <PricingTestimonial
                 package={"PRO"}
-                price={"$700"}
+                price={"7000 rs"}
                 color={"#D9D9D9"}
                 slogan={"Professional plan"}
 
@@ -34,7 +34,7 @@ const SMMPricing = () => {
             />
             <PricingTestimonial
                 package={"PREMIUM"}
-                price={"$1500"}
+                price={"15000 rs"}
                color={"#D9D9D9"}
                slogan={"Business plan"}
                item1={"3 platforms of your choice"}
@@ -49,7 +49,7 @@ const SMMPricing = () => {
            />
            <PricingTestimonial
                 package={"ENTERPRISE"}
-                price={"$2500"}
+                price={"25000 rs"}
                color={"#D9D9D9"}
                slogan={"Ultimate plan"}
 

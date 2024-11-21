@@ -21,7 +21,7 @@ const VideoPricing = () => {
         <div className="flex flex-row max-sm:flex-col gap-8 justify-center mt-6 relative mb-20">
                 <PricingTestimonial
                     package={"Pro"}
-                    price={"$750"}
+                    price={"7500 rs"}
                     color={"#D9D9D9"}
                slogan={"Basic 2D Animation"}
 
@@ -40,7 +40,7 @@ const VideoPricing = () => {
                 />
                 <PricingTestimonial
                     package={"Enterprise"}
-                    price={"$2500"}
+                    price={"25000 rs"}
                    color={"#D9D9D9"}
                slogan={"Premium 2D animation"}
 
@@ -59,7 +59,7 @@ const VideoPricing = () => {
                />
                <PricingTestimonial
                     package={"Premium"}
-                    price={"$4000"}
+                    price={"40000 rs"}
                    color={"#D9D9D9"}
                slogan={"Ultimate 2D animation"}
 

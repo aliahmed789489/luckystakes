@@ -20,7 +20,7 @@ const MobilePricing = () => {
     <div className="flex flex-row max-sm:flex-col gap-8 justify-center mt-6 relative mb-20">
             <PricingTestimonial
                 package={"Basic"}
-                price={"$2560"}
+                price={"25600 rs"}
                 color={"#D9D9D9"}
 
                 item1={"50% Upfront to get started with the work immediately"}
@@ -36,7 +36,7 @@ const MobilePricing = () => {
             />
             <PricingTestimonial
                 package={"Standard"}
-                price={"$4160"}
+                price={"41600 rs"}
                color={"#D9D9D9"}
 
                item1={"50% Upfront to get started with the work immediately"}
@@ -56,7 +56,7 @@ const MobilePricing = () => {
            />
            <PricingTestimonial
                 package={"Business"}
-                price={"$10,000"}
+                price={"10,0000 rs"}
                color={"#D9D9D9"}
                item1={"25% Upfront to get started with the work immediately"}
                item2={"No. of Features Up to 25"}

@@ -20,7 +20,7 @@ const WebDesPricing = () => {
     <div className="flex flex-row max-sm:flex-col gap-8 justify-center mt-6 relative mb-20">
             <PricingTestimonial
                 package={"PRO"}
-                price={"$350"}
+                price={"25000 rs"}
                 color={"#D9D9D9"}
                slogan={"Basic Website Package"}
                item1={"High End Design"}
@@ -42,7 +42,7 @@ const WebDesPricing = () => {
             />
             <PricingTestimonial
                 package={"PREMIUM"}
-                price={"$550"}
+                price={"75000 rs"}
                color={"#D9D9D9"}
                slogan={"Startup Website Package"}
                item1={"Word press"}
@@ -65,7 +65,7 @@ const WebDesPricing = () => {
            />
            <PricingTestimonial
                 package={"ENTERPRISE"}
-                price={"$950"}
+                price={"500000 rs"}
                color={"#D9D9D9"}
                slogan={"Professional Website Package"}
                item1={"Word press"}
