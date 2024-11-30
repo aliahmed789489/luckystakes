@@ -11,7 +11,7 @@ const page = () => {
           <h1 className="text-3xl font-bold ">Terms and Conditions</h1>
           <p className="mt-2 text-lg">
             Welcome to <strong>LuckyStakes</strong>! These Terms and
-            Conditions "Terms" govern your use of our website, software, and services.
+            Conditions &quot;Terms&quot; govern your use of our website, software, and services.
             By accessing or using our services, you agree to these Terms. If you do not
             agree with any part of these Terms, please refrain from using our services.
           </p>
@@ -21,17 +21,17 @@ const page = () => {
           <div id="definitions">
             <h2 className="text-2xl font-semibold ">1. Definitions</h2>
             <ul className="list-disc list-inside mt-3">
-              <li><strong>"Company"</strong> refers to LuckyStakes.</li>
+              <li><strong>&quot;Company&quot;</strong> refers to LuckyStakes.</li>
               <li>
-                <strong>"Client/User/Customer"</strong> refers to the person, business, or
+                <strong>&quot;Client/User/Customer&quot;</strong> refers to the person, business, or
                 entity that uses our services or enters into a contract with us.
               </li>
               <li>
-                <strong>"Services"</strong> refer to the software development, IT consulting, or
+                <strong>&quot;Services&quot;</strong> refer to the software development, IT consulting, or
                 other related services provided by the Company.
               </li>
               <li>
-                <strong>"Deliverables"</strong> refer to the final product, software, or service
+                <strong>&quot;Deliverables&quot;</strong> refer to the final product, software, or service
                 provided to the Client as agreed upon.
               </li>
             </ul>
