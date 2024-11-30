@@ -23,7 +23,7 @@ const SocialSec = () => {
             </div>
             <div >
             <h3 className='font-extrabold text-base uppercase mb-4  '>THE INQUIRY</h3>
-                <Link href="mailto:inquiry@luckystakes.com">luckystakesofficial@gmail.com</Link>
+                <Link href="mailto:luckystakesofficial@gmail.com">luckystakesofficial@gmail.com</Link>
             </div>
             <div className='sm:col-span-2'>
             <h3 className='font-extrabold text-base uppercase mb-4 '>Social sites</h3>

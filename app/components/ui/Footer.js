@@ -22,10 +22,10 @@ const Footer = () => {
       <div className="text-[#fff] ">
         <ul className="flex flex-col gap-4">
         <li className="font-bold " >Social</li>
-            <li ><Link href='#' target="_blank" > Facebook</Link></li>
-            <li ><Link href="#" target="_blank" >Twitter</Link></li>
-            <li ><Link href="#" target="_blank" >Instagram</Link></li>
-            <li ><Link href="#" target="_blank" >linkedin</Link></li>
+            <li ><Link href='/termsandconditions' target="_blank" >Terms and Conditions</Link></li>
+            <li ><Link href="/privacypolicy" target="_blank" >Privacy Policy</Link></li>
+            <li ><Link href="/returnpolicy" target="_blank" >Return Policy</Link></li>
+
           
  
         </ul>
