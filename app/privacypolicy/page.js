@@ -11,7 +11,7 @@ const page = () => {
         <header className="mb-8">
           <h1 className="text-3xl font-bold">Privacy Policy</h1>
           <p className="mt-2 text-lg">
-            <strong>[Your Software House Name]</strong> (“we,” “our,” “us”) values your
+            <strong>LuckyStakes</strong> “we,” “our,” “us” values your
             privacy and is committed to protecting the personal information you share with us.
             This Privacy Policy explains how we collect, use, and safeguard your information
             when you visit our website, use our software products, or engage our services.
@@ -28,8 +28,8 @@ const page = () => {
             <ul className="list-disc list-inside">
               <li>Name, email address, phone number, and other contact details.</li>
               <li>
-                Payment information for billing purposes (processed securely through
-                third-party payment providers).
+                Payment information for billing purposes processed securely through
+                third-party payment providers.
               </li>
               <li>Business details, including company name and designation.</li>
             </ul>
@@ -62,7 +62,7 @@ const page = () => {
               <li>To process payments and manage billing.</li>
               <li>
                 To send service updates, promotional offers, and marketing communications
-                (you can opt out at any time).
+                you can opt out at any time.
               </li>
               <li>To ensure compliance with legal and regulatory requirements.</li>
               <li>To analyze trends, administer the website, and improve user experience.</li>
@@ -76,7 +76,7 @@ const page = () => {
               non-personal information, including:
             </p>
             <ul className="list-disc list-inside">
-              <li>Encryption for sensitive data (e.g., payment information).</li>
+              <li>Encryption for sensitive data e.g., payment information.</li>
               <li>Secure servers and firewalls to prevent unauthorized access.</li>
               <li>Limited access to data by authorized personnel only.</li>
             </ul>
@@ -95,7 +95,7 @@ const page = () => {
             <ul className="list-disc list-inside">
               <li>
                 <strong>With Service Providers:</strong> Third-party vendors and partners who assist
-                in delivering our services (e.g., payment processors, cloud storage).
+                in delivering our services e.g., payment processors, cloud storage.
               </li>
               <li>
                 <strong>Legal Compliance:</strong> When required to do so by law or in response to
@@ -116,7 +116,7 @@ const page = () => {
             <ul className="list-disc list-inside">
               <li>
                 <strong>Access and Update:</strong> Request access to your personal information
-                and update it if it’s incorrect.
+                and update it if it&quot;s incorrect.
               </li>
               <li>
                 <strong>Deletion:</strong> Request the deletion of your personal information,

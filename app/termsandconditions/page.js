@@ -11,7 +11,7 @@ const page = () => {
           <h1 className="text-3xl font-bold ">Terms and Conditions</h1>
           <p className="mt-2 text-lg">
             Welcome to <strong>LuckyStakes</strong>! These Terms and
-            Conditions ("Terms") govern your use of our website, software, and services.
+            Conditions "Terms" govern your use of our website, software, and services.
             By accessing or using our services, you agree to these Terms. If you do not
             agree with any part of these Terms, please refrain from using our services.
           </p>
@@ -21,7 +21,7 @@ const page = () => {
           <div id="definitions">
             <h2 className="text-2xl font-semibold ">1. Definitions</h2>
             <ul className="list-disc list-inside mt-3">
-              <li><strong>"Company"</strong> refers to [Your Software House Name].</li>
+              <li><strong>"Company"</strong> refers to LuckyStakes.</li>
               <li>
                 <strong>"Client/User/Customer"</strong> refers to the person, business, or
                 entity that uses our services or enters into a contract with us.
@@ -131,8 +131,8 @@ const page = () => {
                 Project timelines will be agreed upon prior to the start of the project.
               </li>
               <li>
-                Delays caused by the Client (e.g., late submission of materials, lack of
-                response) may result in extensions to the agreed timeline.
+                Delays caused by the Client e.g., late submission of materials, lack of
+                response may result in extensions to the agreed timeline.
               </li>
               <li>
                 The Company shall not be held responsible for delays caused by unforeseen
@@ -164,7 +164,7 @@ const page = () => {
             <ul className="list-disc list-inside mt-3">
               <li>
                 The Company will provide a warranty for the deliverables for a specified
-                period (as agreed upon in the contract) to address any defects or bugs.
+                period as agreed upon in the contract to address any defects or bugs.
               </li>
               <li>
                 Post-warranty support or maintenance services can be provided under a
@@ -176,7 +176,8 @@ const page = () => {
           <div id="indemnification">
             <h2 className="text-2xl font-semibold ">10. Indemnification</h2>
             <ul className="list-disc list-inside mt-3">
-              <li>The Client agrees to indemnify and hold the Company harmless from any claims, liabilities, or damages.</li>
+              <li>The Client agrees to indemnify and hold the Company harmless from any claims, 
+                liabilities, or damages.</li>
             </ul>
           </div>
 
@@ -192,7 +193,7 @@ const page = () => {
           <div id="governing-law">
             <h2 className="text-2xl font-semibold ">12. Governing Law</h2>
             <p>
-              These Terms and any disputes arising from them will be governed by and construed in accordance with the laws of <strong>[Your Country/Region]</strong>.
+              These Terms and any disputes arising from them will be governed by and construed in accordance with the laws of <strong>Pakistan</strong>.
             </p>
           </div>
 

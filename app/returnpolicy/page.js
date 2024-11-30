@@ -96,7 +96,7 @@ const page = () => {
             <ul className="list-disc list-inside mt-3">
               <li>
                 If the project is canceled by <strong>LuckyStakes</strong> for reasons beyond
-                the client’s control, a full refund will be issued for the uncompleted portions
+                the client&quot;s control, a full refund will be issued for the uncompleted portions
                 of the project.
               </li>
             </ul>
@@ -119,7 +119,7 @@ const page = () => {
               <li>
                 Requests can be sent to <a href="mailto:email@example.com" className="underline">
                   email@example.com
-                </a> with detailed reasons and supporting documents (if any).
+                </a> with detailed reasons and supporting documents if any.
               </li>
             </ul>
           </div>
@@ -139,7 +139,7 @@ const page = () => {
 
           <div id="exceptions">
             <h2 className="text-2xl font-semibold">9. Exceptions</h2>
-            <p className="mt-3">
+            <p className="mt-3"> 
               Any exceptions to this policy will be made at the sole discretion of <strong>LuckyStakes</strong>.
             </p>
           </div>
